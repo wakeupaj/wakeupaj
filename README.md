@@ -35,7 +35,7 @@ I started off as an IT student in 2022, but quickly lost interest due to the slo
 
 Upon my completion of [CS50x](https://cs50.harvard.edu/x/2024/), I quickly began [CS50p - Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/), and likewise with [CS50x](https://cs50.harvard.edu/x/2024/), I flew through the course and gained an exceptional understanding of Python. 
 
-As of right now I am ~~working~~ *volunteering* as the **Lead Developer** of **[Luminar Finance 🌙](https://github.com/wakeupaj/luminarfinance)**, a *Futures Trading Advisory Service* startup founded by a few close friends and I. At the time of writing this I am currently working on the [website](https://luminarfinance.net), using mega-popular JavaScript Web-Dev library; [React.js](https://github.com/topics/react). It's been a tough learning curve so far yet I am just now starting to get the hang of it. JavaScript is completely new to me, so it's definitely been a challenge but there are tons of resources and tools online to help a beginner like myself.
+As of right now I am ~~working~~ *volunteering* as the **Lead Developer** of **[Luminar Finance 🌙](https://github.com/wakeupaj/luminarfinance)**, a *Futures Trading Advisory Service* startup founded by a few close friends and I. At the time of writing this I am currently working on the [website](https://luminarfinance.net), using mega-popular JavaScript Web-Dev library; [React.js](https://github.com/topics/react). It's been a tough learning curve so far, yet I am just now starting to get the hang of it. JavaScript is completely new to me, so it's definitely been a challenge but there are tons of resources and tools online to help a beginner like myself.
 
 
 
