@@ -1,6 +1,6 @@
 # [AJ's GitHub 🌟](https://github.com/wakeupaj)
 
-### Hey, my name is Ahrujan. Welcome to my GitHub Page.
+### Hey, my name is AJ. Welcome to my GitHub Page.
 
 #### I am an aspiring developer from Toronto, Canada. 🍁
 ___
