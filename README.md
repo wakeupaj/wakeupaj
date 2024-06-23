@@ -20,7 +20,7 @@ ___
 |[CLI/Bash](https://github.com/topics/cli) |⭐⭐⭐⭐⭐|I am very comfortable using and working within the CLI. I can utilize Bash and most all it's commands with ease. |
 | [C](https://github.com/topics/c)   |⭐⭐|The first *"programming language"* I learned; Laid a fundamental foundation for adapting future concepts.    |
 |[Python](https://github.com/topics/python)  |⭐⭐⭐⭐⭐|The language I am most comfortable with as of right now. I am familiar with most all paradigms and syntax within Python.|
-|[JavaScript](https://github.com/topics/javascript) |⭐⭐ |At the time of writing this, JavaScript is what I am currently learning. I slowly but surely understanding the way JS works and how to use it.|
+|[JavaScript](https://github.com/topics/javascript) |⭐⭐⭐ |At the time of writing this, JavaScript is what I am currently learning. I slowly but surely understanding the way JS works and how to use it.|
 |[HTML](https://github.com/topics/html)/[CSS](https://github.com/topics/css) |⭐⭐⭐|I am exceptionally familiar with both HTML and CSS. I am comfortable with it's syntax and code structure, and can confidently create webpages using them.|
 |[React](https://github.com/topics/react) |⭐⭐⭐|My favourite of all the tech I've leard so far; Although I'm extremely new to React, it felt intuitive and powerful to use right from the jump. |
 |[Git](https://github.com/topics/git) |⭐⭐⭐⭐⭐|Can confidently use most all significiant Git commands. (add, commit, pull, push, merge, clone, init)|
